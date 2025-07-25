@@ -112,11 +112,10 @@ This document provides a comprehensive summary of how the AI Workflow Capstone p
 
 ### Did the EDA investigation use visualizations?
 **Status: COMPLETE**
-- Location: `model_comparison_analysis.ipynb`
+- Location: `EDA.ipynb`
 - Visualizations:
   - Time series plots (daily and monthly aggregation)
   - Seasonal decomposition
-  - Model performance comparisons
   - Confidence intervals
   - Residual analysis
   - Parameter tuning impact visualization
